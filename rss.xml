@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Roses'Roses]]></title>
+        <description><![CDATA[Roses'Roses]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 07:47:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roses ]]></title>
+            <description><![CDATA[<article><h1>Roses </h1><p>Roses</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ccd57a3-6b96-4f81-9d5e-c7b7d1050e54.png"></article>]]></description>
+            <link>undefinedroses/index.html</link>
+            <guid isPermaLink="false">537d3326-6215-4e02-926a-16ff5cdaf73d</guid>
+            <pubDate>Thu, 24 Mar 2016 07:46:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
