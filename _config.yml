@@ -1,0 +1,28 @@
+name: "Roses'Roses"
+favicon: null
+layout_spectrum: 0.6035573792178184
+typography_spectrum: 0.008352732053026557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6544928119983524
+  lightness: 0.2763437363319099
+  saturation: 0.5302272844128311
+  rhythmicContrast: 0.8056418444029987
+purpose: []
