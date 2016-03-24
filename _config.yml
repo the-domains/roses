@@ -1,28 +1,40 @@
-name: "Roses'Roses"
-favicon: null
-layout_spectrum: 0.6035573792178184
-typography_spectrum: 0.008352732053026557
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6544928119983524
-  lightness: 0.2763437363319099
-  saturation: 0.5302272844128311
-  rhythmicContrast: 0.8056418444029987
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5302272844128311
+  brandStrength: 0.4871106
+  lightness: 0.2763437363319099
+  brandColors:
+    - '#EAE1CD'
+    - '#1F1616'
+    - '#6E432F'
+    - '#88775C'
+    - '#B4AC4B'
+  rhythmicContrast: 0.8056418444029987
+typography_spectrum: 0.4291085
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: "Roses'Roses"
