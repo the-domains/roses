@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: "Roses'Roses"
+title: 蘿絲玫瑰
 cta:
   domain: null
   bucket: null
