@@ -1,14 +1,15 @@
 ---
 description: Table Installation
 author: []
-datePublished: '2016-04-14T13:48:48.675Z'
+datePublished: '2016-04-14T13:49:08.354Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Table Installation '
-dateModified: '2016-04-14T13:48:01.806Z'
+dateModified: '2016-04-14T13:48:57.081Z'
 sourcePath: _posts/2016-04-14-table-installation.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
