@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-04-14T13:48:49.354Z'
+datePublished: '2016-04-14T13:49:08.342Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Enter the world of RoseLin Floral Design
-dateModified: '2016-04-14T13:47:19.978Z'
+dateModified: '2016-04-14T13:48:57.062Z'
 sourcePath: _posts/2016-04-14-enter-the-world-of-roselin-floral-design.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
